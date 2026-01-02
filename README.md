@@ -1,22 +1,37 @@
-This project is a C++ console application designed to demonstrate fundamental programming concepts such as arrays, functions, loops, conditional statements, and user input/output.
-It is suitable for academic purposes and for strengthening core C++ skills.
+Ky është një program i thjeshtë në C++, i bazuar në menu, që llogarit sipërfaqen e disa formave gjeometrike bazë:
 
-🚀 Features
+Rreth
 
-User-friendly console-based interface
+Drejtkëndësh
 
-Input validation for safe data entry
+Katror
 
-Modular code structure using functions
+Programi merr të dhëna nga përdoruesi, kontrollon vlefshmërinë e tyre dhe shfaq rezultatin me 2 shifra dhjetore.
 
-Efficient data processing using arrays
+🧮 Funksionalitetet
 
-Clear and readable output
+Menu interaktive për përdoruesin
 
-🛠️ Technologies Used
+Llogarit sipërfaqen për:
 
-Programming Language: C++
+Rreth (π × r²)
 
-Compiler: GCC / MinGW
+Drejtkëndësh (gjatësia × gjerësia)
 
-IDE (optional): Visual Studio Code / Code::Blocks
+Katror (brinja²)
+
+Kontroll për vlera pozitive
+
+Formatim i rezultatit me 2 shifra pas presjes
+
+Opsion për dalje nga programi
+
+🛠️ Teknologjitë e Përdorura
+
+C++
+
+Librari standarde:
+
+<iostream> për hyrje/dalje
+
+<cmath> për llogaritje matematikore
